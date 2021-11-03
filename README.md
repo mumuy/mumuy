@@ -1,1 +1,12 @@
-[![Mumuy's github stats](https://github-readme-stats-six-mocha.vercel.app/api?username=mumuy&count_private=true&show_icons=true&title_color=2095f2&text_color=2095f2&icon_color=2095f2)](https://passer-by.com/)
+### Hi there 👋
+<!-- [![Mumuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumuy&theme=vue&show_icons=true&count_private=true&hide=prs,contribs)](https://passer-by.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumuy&layout=compact)]() -->
+
+<div>
+  <a href="https://passer-by.com/">
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=mumuy&show_icons=true&count_private=true&hide=prs,contribs" />
+  </a>
+  <a href="https://passer-by.com/">
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumuy&layout=compact" />
+  </a>
+</div>
