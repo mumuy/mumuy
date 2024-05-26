@@ -20,6 +20,7 @@ My Website: [passer-by.com](https://passer-by.com)
 | 时间格式化 | [项目](https://github.com/mumuy/datex/) | [演示](https://passer-by.com/datex/) |
 | 万年历 | [项目](https://github.com/mumuy/calendar/) | [演示](https://passer-by.com/calendar/) |
 | 代码着色美化 | [项目](https://github.com/mumuy/widget-code/) | [演示](https://passer-by.com/widget-code/) |
+| 二维码组件 | [项目](https://github.com/mumuy/widget-qrcode/) | [演示](https://passer-by.com/widget-qrcode/) |
 | 身份证号码解析 | [项目](https://github.com/mumuy/idcard/) | [演示](https://passer-by.com/idcard/) |
 | 大数浮点数计算 | [项目](https://github.com/mumuy/anynumber/) | [演示](https://passer-by.com/anynumber/) |
 | imageCode脚本加密 | [项目](https://github.com/mumuy/imagecode/) | [演示](https://passer-by.com/imagecode/) |
