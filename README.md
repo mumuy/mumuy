@@ -22,6 +22,7 @@ My Website: [passer-by.com](https://passer-by.com)
 | 万年历 | [仓库](https://github.com/mumuy/calendar/) | [演示](https://passer-by.com/calendar/) |
 | 代码着色美化 | [仓库](https://github.com/mumuy/widget-code/) | [演示](https://passer-by.com/widget-code/) |
 | 二维码组件 | [仓库](https://github.com/mumuy/widget-qrcode/) | [演示](https://passer-by.com/widget-qrcode/) |
+| 响应式数据本地存储 | [仓库](https://github.com/mumuy/livestorage/) | [演示](https://passer-by.com/livestorage/) |
 | 身份证号码解析 | [仓库](https://github.com/mumuy/idcard/) | [演示](https://passer-by.com/idcard/) |
 | 大数浮点数计算 | [仓库](https://github.com/mumuy/anynumber/) | [演示](https://passer-by.com/anynumber/) |
 | 异步请求库 | [仓库](https://github.com/mumuy/ajax/) | [演示](https://passer-by.com/ajax/) |
