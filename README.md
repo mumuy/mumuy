@@ -10,7 +10,7 @@ My Website: [passer-by.com](https://passer-by.com)
 <summary>My Projects</summary>
 
 
-| 名称 | 仓库/repository| 演示/Demo|
+| 名称/Project | 仓库/repository| 演示/Demo|
 |-------|-------|-------|
 | 亲戚计算器 | [仓库](https://github.com/mumuy/relationship/) | [演示](https://passer-by.com/relationship/) |
 | 行政区划数据 | [仓库](https://github.com/mumuy/data_location/) | [演示](https://passer-by.com/data_location/) |
@@ -20,8 +20,9 @@ My Website: [passer-by.com](https://passer-by.com)
 | 浏览器检测 | [仓库](https://github.com/mumuy/browser/) | [演示](https://passer-by.com/browser/) |
 | 时间格式化 | [仓库](https://github.com/mumuy/datex/) | [演示](https://passer-by.com/datex/) |
 | 万年历 | [仓库](https://github.com/mumuy/calendar/) | [演示](https://passer-by.com/calendar/) |
-| 代码着色美化 | [仓库](https://github.com/mumuy/widget-code/) | [演示](https://passer-by.com/widget-code/) |
-| 二维码组件 | [仓库](https://github.com/mumuy/widget-qrcode/) | [演示](https://passer-by.com/widget-qrcode/) |
+| 代码着色美化组件 | [仓库](https://github.com/mumuy/widget-code/) | [演示](https://passer-by.com/widget-code/) |
+| 二维码美化组件 | [仓库](https://github.com/mumuy/widget-qrcode/) | [演示](https://passer-by.com/widget-qrcode/) |
+| 行政区划选择组件 | [仓库](https://github.com/mumuy/widget-region/) | [演示](https://passer-by.com/widget-region/) |
 | 响应式数据本地存储 | [仓库](https://github.com/mumuy/livestorage/) | [演示](https://passer-by.com/livestorage/) |
 | 身份证号码解析 | [仓库](https://github.com/mumuy/idcard/) | [演示](https://passer-by.com/idcard/) |
 | 大数浮点数计算 | [仓库](https://github.com/mumuy/anynumber/) | [演示](https://passer-by.com/anynumber/) |
